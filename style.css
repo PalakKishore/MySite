@@ -1,0 +1,147 @@
+.top{
+  background-color: #cff1ef;
+  padding-top: 120px;
+}
+.t1{
+  width: 50%;
+  margin: auto;
+  position: relative;
+  padding-bottom: 75px;
+}
+.middle{
+  padding-bottom: 50px;
+}
+.last{
+  background-color:#cff1ef;
+  height:70px;
+  padding-top: 30px;
+}
+h1{
+  font-size: 100px;
+  color:#1EB2A6;
+  font-family:'Great Vibes', cursive;
+  margin: 0;
+  font-weight: normal;
+}
+h2{
+  color:#1EB2A6;
+  font-size: 2rem;
+  font-weight: lighter;
+  text-align: center;
+  clear: both;
+  margin: 0;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+}
+a:hover{
+  color: #1EB2A6;
+}
+.footer-link{
+  margin:30px;
+}
+body{
+  text-align: center;
+  margin:0;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+img{
+  width: 150px;
+}
+.pr{
+  text-decoration: underline;
+}
+.mountain{
+  width:800px;
+}
+.cloud-top{
+  width:150px;
+  position: absolute;
+  left:600px;
+  bottom:340px;
+}
+.cloud-bottom{
+  width:150px;
+  position: absolute;
+  right:600px;
+  top:280px;
+}
+.education{
+  margin:auto;
+  width: 50%;
+  text-align: left;
+  padding: 30px;
+}
+.ed{
+  float: left;
+  padding: 45px 30px 45px 30px;
+  margin-bottom: 40px;
+  margin-right: 60px;
+}
+.activities{
+  margin: auto;
+  text-align: left;
+  width: 50%;
+  padding: 30px;
+}
+.ac{
+  float:right;
+  padding-top:30px;
+  margin-left: 30px;
+}
+.skills{
+  padding: 30px;
+}
+.skill-row{
+  margin:auto;
+  text-align: left;
+  width: 50%;
+}
+.sk1{
+  float: right;
+  width:110px;
+  margin-left: 30px;
+}
+.sk2{
+  width: 130px;
+  float: left;
+  margin-right: 30px;
+}
+.sp3{/*the last skill image*/
+  width:630px;
+  height:200px;
+  position: relative;
+  top:15px;
+  margin:30px auto 30px auto;
+}
+.profile{
+  padding: 30px;
+}
+.cm{
+  padding-top: 30px;
+}
+.button{
+  background-color: #45b29a;
+  color:white;
+  font-size: 16px;
+  padding: 10px 30px 10px 30px;
+  border-radius: 8px;
+  border: 2px solid white;
+}
+.button:hover{
+  background-color: #1b7f69;
+  color: white;
+}
+hr{
+  border-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  border-bottom: 0;
+  width: 3%;
+  margin: 50px auto;
+}
